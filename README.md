@@ -25,11 +25,11 @@ I'm building a fully GitOps-driven homelab running on **K3s** over bare-metal la
 
 🔜 Planned upgrades:
 - Add **2 more nodes** to form a lightweight HA control plane  
-- Use my beloved **Arch Linux** laptop on one node with K3s control-plane role  
-## 🛠️ Tech Stack
+- Use my beloved **Arch Linux** laptop on one node with K3s control-plane role
 
 ---
 
+## 🛠️ Tech Stack
 - **Languages:** Python, Bash, YAML  
 - **DevOps Tools:** GitLab CI, GitHub Actions, Docker, Kubernetes, Helm  
 - **Cloud:** Azure (AZ-104 in progress)  
