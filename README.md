@@ -12,6 +12,7 @@
 ---
 
 ## 🧪 My Homelab
+🔗 Repository: [github.com/mgsantos21/homelab](https://github.com/mgsantos21/homelab)
 
 I'm building a fully GitOps-driven homelab running on **K3s** over bare-metal laptops, using modern DevOps tooling to simulate real production environments.
 
