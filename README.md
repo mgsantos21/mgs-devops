@@ -41,7 +41,7 @@ I'm building a fully GitOps-driven homelab running on **K3s** over bare-metal la
 ## 📈 What I'm working on
 
 - Upscaling my homelab with more nodes and more self-hosted apps  
-- Building production-grade pipelines using GitLab CI and K8s  
+- Building production-grade pipelines using GitLab CI and managing K8s daily  
 - Studying for the **AZ-104** and **AZ-400** certifications  
 
 ---
