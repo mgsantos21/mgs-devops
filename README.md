@@ -21,7 +21,7 @@ I'm building a fully GitOps-driven homelab running on **K3s** over bare-metal la
 - **Helm** for templating and managing charts  
 - **Prometheus + Grafana** for observability
 - **Cloudflare** for DNS and secure public access  
-- **Secrets management** with SOPS and GPG  
+- **Secrets management** with SOPS
 
 🔜 Planned upgrades:
 - Add **2 more nodes** to form a lightweight HA control plane  
