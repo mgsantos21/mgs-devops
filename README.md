@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Maurício Santos
 
-🚀 I'm a DevOps Engineer passionate about automation and cloud infrastructure
+🚀 I'm a DevOps Engineer passionate about automation, cloud-native infrastructure, and scalable deployments.
 
 🔧 I currently work with:
 - CI/CD pipelines using GitLab and GitHub Actions
